@@ -3,7 +3,7 @@ import './table.scss'
 import React, { useState } from 'react';
 
 // Datos ficticios de la tabla
-//Hilary rica
+
 
 
 var table = [
